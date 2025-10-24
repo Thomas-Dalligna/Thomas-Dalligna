@@ -1,9 +1,9 @@
-## Olá! Seja muito bem-vindo(a) ao perfil do Marfor-Dalligna 😁
+## Olá! Seja muito bem-vindo(a) ao perfil do Thomas-Dalligna 😁
 
  <div>
    <a href="https://github.com/Thomas-Dalligna">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marfor-Dalligna&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marfor-Dalligna&layout=compact&langs_count=6&theme=neon"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thomas-Dalligna&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas-Dalligna&layout=compact&langs_count=6&theme=neon"/>
 </div>
     
 <div style="display: inline_block"><br>
