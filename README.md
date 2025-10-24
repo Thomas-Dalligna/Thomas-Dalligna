@@ -1,4 +1,4 @@
-## Olá! Seja muito bem-vindo(a) ao perfil do Thomas-Dalligna 😁
+## Olá! Seja muito bem-vindo(a) ao meu perfil!  😁
 
  <div>
    <a href="https://github.com/Thomas-Dalligna">
